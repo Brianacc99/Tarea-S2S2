@@ -10,7 +10,7 @@ Bloque: Son etiquetas que crean bloques separados, como párrafos o encabezados 
 Inline: Son etiquetas que se usan dentro de otras, sin empezar una nueva línea (<span>)
 Atributos:
 Los atributos dan información extra a una etiqueta y van dentro de la etiqueta de apertura.
-Ejemplo: <a href="https://www.ejemplo.com"> usa el atributo href para indicar a dónde lleva el enlace.
+Ejemplo: <p class="parrafo"> 
 Encabezados:
 Son como títulos que puedes dar a secciones de tu página. Van desde el más grande <h1> al más pequeño <h6>.
 Ayudan a organizar la página y son importantes para la búsqueda en internet.
